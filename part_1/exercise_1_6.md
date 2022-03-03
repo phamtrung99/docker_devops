@@ -1,5 +1,5 @@
 ## Topic 
-![Topic_1_6](../public/image/part_1/Topic_1_6.png) 
+![Topic_1_6](../public/part_1/image/Topic_1_6.png) 
 
 ## My answer
 #### Step
@@ -9,5 +9,5 @@ docker run -it devopsdockeruh/pull_exercise
 ```
 2. Type `basics`
 #### Result
-![Answer_1_6](../public/image/part_1/Answer_1_6.png)
+![Answer_1_6](../public/part_1/image/Answer_1_6.png)
 

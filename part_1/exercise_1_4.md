@@ -1,5 +1,5 @@
 ## Topic 
-![Topic_1_4](../public/image/part_1/Topic_1_4.png) 
+![Topic_1_4](../public/part_1/image/Topic_1_4.png) 
 
 ## My answer
 #### Step
@@ -21,4 +21,4 @@ sh -c 'echo "Input website:"; read website; echo "Searching.."; sleep 1; curl ht
 Then, type `helsinki.fi`     
 
 #### Result
-![Answer_1_4](../public/image/part_1/Answer_1_4.png)
+![Answer_1_4](../public/part_1/image/Answer_1_4.png)

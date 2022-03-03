@@ -1,5 +1,5 @@
 ## Topic 
-![Topic_1_1](../public/image/part_1/Topic_1_1.png) 
+![Topic_1_1](../public/part_1/image/Topic_1_1.png) 
 
 ## My answer
-![Answer_1_1](../public/image/part_1/Answer_1_1.png)
+![Answer_1_1](../public/part_1/image/Answer_1_1.png)

@@ -1,6 +1,6 @@
 ## Topic 
-![Topic_1_7_1](../public/image/part_1/Topic_1_7_1.png) 
-![Topic_1_7_2](../public/image/part_1/Topic_1_7_2.png) 
+![Topic_1_7_1](../public/part_1/image/Topic_1_7_1.png) 
+![Topic_1_7_2](../public/part_1/image/Topic_1_7_2.png) 
 
 ## My answer
 #### Step
@@ -22,5 +22,5 @@ docker build . -t web-server
 docker run web-server
 ```
 #### Result
-![Answer_1_7](../public/image/part_1/Answer_1_7.png)
+![Answer_1_7](../public/part_1/image/Answer_1_7.png)
 
